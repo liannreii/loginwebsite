@@ -1,11 +1,16 @@
 *
 body {
     background-color: #9CAE7E;
+    text-align: center;
+    justify-content: center;
 }
 
 .wrapper {
     background-color: #FFFADD;
-    width: 400;
-    height: 300;
+    width: 500;
+    height: 500;
+    justify-content: center;
     text-align: center;
+    margin-left: 350;
+    margin-top: 100;
 }
